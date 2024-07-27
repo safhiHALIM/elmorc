@@ -4,7 +4,7 @@
 
 **Nom du Projet** : ElMorc
 
-**Description du Projet** : Développement d'un site web de commerce électronique pour la marque de vêtements ElMorc, similaire au site [Minimal Bazar](https://minimal-bazar.com/). Le site inclura une boutique en ligne avec un panier et une interface d'administration (cPanel) personnalisée.
+**Description du Projet** : Développement d'un site web de commerce électronique pour la marque de vêtements ElMorc. Le site inclura une boutique en ligne avec un panier et une interface d'administration (cPanel) personnalisée.
 
 #### 2. Objectifs
 
@@ -75,6 +75,4 @@
 - **Intégration de Plugins** : Pour SEO, analytics, et autres fonctionnalités.
 - **Maintenance** : Plan de maintenance régulière pour assurer la sécurité et les mises à jour.
 
----
 
-Ce document constitue la base pour le développement du site web de la marque ElMorc. Si vous avez des questions supplémentaires ou des modifications à apporter, n'hésitez pas à le préciser.
